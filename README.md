@@ -149,7 +149,7 @@ An interactive dashboard was developed using `ipywidgets` and `plotly` to provid
 
 ### Dashboard Preview
 
-![Economic Dashboard Screenshot](./images/dashboard_screenshot.png)
+![Economic Dashboard Screenshot](./Economic Indicators Dashboard.jpeg)
 *Interactive dashboard showing economic indicators, trends, and global comparisons*
 
 ### 🎯 Key Features
@@ -348,3 +348,4 @@ For questions, feedback, or collaboration opportunities, please feel free to rea
 *This project provides foundational insights into global economic disparities and serves as a basis for further research and policy considerations.* 📊📈
 
 **Last Updated**: January 2026
+
